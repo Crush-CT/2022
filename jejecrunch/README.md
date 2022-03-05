@@ -36,7 +36,7 @@
 
 | 카테고리 | 제목                                                                            | 풀이 여부                                                                                                 |
 | -------- | ------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------- |
-|          | [엄청난 부자2](https://www.acmicpc.net/problem/1271)                            | [**O**](https://github.com/jejecrunch/2022/blob/main/jejecrunch/BAEKJOON/SuperRich_1271.java)             |
+|          | [엄청난 부자2](https://www.acmicpc.net/problem/1271)                            | [**O**](https://github.com/jejecrunch/2022/blob/main/jejecrunch/BAEKJOON/SuperRich2_1271.java)            |
 |          | [16진수](https://www.acmicpc.net/problem/1550)                                  | [**O**](https://github.com/jejecrunch/2022/blob/main/jejecrunch/BAEKJOON/Hexadecimal_1550.java)           |
 |          | [긴자리 계산](https://www.acmicpc.net/problem/2338)                             | [**O**](https://github.com/jejecrunch/2022/blob/main/jejecrunch/BAEKJOON/LongDigitClaculation_2338.java)  |
 |          | [검증수](https://www.acmicpc.net/problem/2475)                                  | [**O**](https://github.com/jejecrunch/2022/blob/main/jejecrunch/BAEKJOON/NumberOfVerifications_2475.java) |
@@ -51,7 +51,9 @@
 |          | [심부름 가는 길](https://www.acmicpc.net/problem/5554)                          | [**O**](https://github.com/jejecrunch/2022/blob/main/jejecrunch/BAEKJOON/Errand_5554.java)                |
 |          | [Next in line](https://www.acmicpc.net/problem/6749)                            | [**O**](https://github.com/jejecrunch/2022/blob/main/jejecrunch/BAEKJOON/NextInLine_6749.java)            |
 |          | [Plane](https://www.acmicpc.net/problem/8370)                                   | [**O**](https://github.com/jejecrunch/2022/blob/main/jejecrunch/BAEKJOON/Plane_8370.java)                 |
-|          | [스타워즈 로고](https://www.acmicpc.net/problem/9653)                           | [**O**](https://github.com/jejecrunch/2022/blob/main/jejecrunch/BAEKJOON/Starwars_9653.java)              |
+|          | [Julka](https://www.acmicpc.net/problem/8437)                                   | [**O**](https://github.com/jejecrunch/2022/blob/main/jejecrunch/BAEKJOON/Julka_8437.java)                 |
+|          | [Zadanie próbne 2](https://www.acmicpc.net/problem/8871)                        | [**O**](https://github.com/jejecrunch/2022/blob/main/jejecrunch/BAEKJOON/ZadanieProbne2_8871.java)        |
+|          | [스타워즈 로고](https://www.acmicpc.net/problem/9653)                           | [**O**](https://github.com/jejecrunch/2022/blob/main/jejecrunch/BAEKJOON/StarwarsLogo_9653.java)          |
 |          | [나부 함대 데이터](https://www.acmicpc.net/problem/9654)                        | [**O**](https://github.com/jejecrunch/2022/blob/main/jejecrunch/BAEKJOON/NabuPlanet_9654.java)            |
 |          | [NFC West vs North](https://www.acmicpc.net/problem/10170)                      | [**O**](https://github.com/jejecrunch/2022/blob/main/jejecrunch/BAEKJOON/NFCWestvsNorth_10170.java)       |
 |          | [오늘 날짜](https://www.acmicpc.net/problem/10699)                              | [**O**](https://github.com/jejecrunch/2022/blob/main/jejecrunch/BAEKJOON/Today_10699.java)                |
@@ -75,15 +77,15 @@
 |          | [달달함이 넘쳐흘러](https://www.acmicpc.net/problem/17256)                      | [**O**](https://github.com/jejecrunch/2022/blob/main/jejecrunch/BAEKJOON/MuchSweet_17256.java)            |
 |          | [엔드게임 스포일러](https://www.acmicpc.net/problem/17295)                      | [**O**](https://github.com/jejecrunch/2022/blob/main/jejecrunch/BAEKJOON/EndgameSpoiler_17295.java)       |
 |          | [스타후르츠](https://www.acmicpc.net/problem/17496)                             | [**O**](https://github.com/jejecrunch/2022/blob/main/jejecrunch/BAEKJOON/StarFruits_17496.java)           |
-|          | [Арифметическая магия](https://www.acmicpc.net/problem/18906)                   |                                                                                                           |
+|          | [Арифметическая магия](https://www.acmicpc.net/problem/18906)                   | [**O**](https://github.com/jejecrunch/2022/blob/main/jejecrunch/BAEKJOON/Artithmetic_18096.java)          |
 |          | [Rats](https://www.acmicpc.net/problem/18301)                                   | [**O**](https://github.com/jejecrunch/2022/blob/main/jejecrunch/BAEKJOON/Rats_18301.java)                 |
 |          | [Site Score](https://www.acmicpc.net/problem/20254)                             | [**O**](https://github.com/jejecrunch/2022/blob/main/jejecrunch/BAEKJOON/SiteScore_20254.java)            |
 |          | [세금](https://www.acmicpc.net/problem/20492)                                   | [**O**](https://github.com/jejecrunch/2022/blob/main/jejecrunch/BAEKJOON/Tax_20492.java)                  |
 |          | [Bottle Return](https://www.acmicpc.net/problem/21300)                          | [**O**](https://github.com/jejecrunch/2022/blob/main/jejecrunch/BAEKJOON/BottleReturn_21300.java)         |
 |          | [Multiply](https://www.acmicpc.net/problem/22193)                               | [**O**](https://github.com/jejecrunch/2022/blob/main/jejecrunch/BAEKJOON/Multyply_22193.java)             |
 |          | [The World Responds](https://www.acmicpc.net/problem/23234)                     | [**O**](https://github.com/jejecrunch/2022/blob/main/jejecrunch/BAEKJOON/TheWorldResponds_23234.java)     |
-|          | [余り (Remainder)](https://www.acmicpc.net/problem/24078)                       | [**O**](https://github.com/jejecrunch/2022/blob/main/jejecrunch/BAEKJOON/Nokori_24078.java)               |
-|          | [立方体 (Cube)](https://www.acmicpc.net/problem/24082)                          | [**O**](https://github.com/jejecrunch/2022/blob/main/jejecrunch/BAEKJOON/Liltupoutai_24082.java)          |
+|          | [余り (Remainder)](https://www.acmicpc.net/problem/24078)                       | [**O**](https://github.com/jejecrunch/2022/blob/main/jejecrunch/BAEKJOON/Amari_24078.java)                |
+|          | [立方体 (Cube)](https://www.acmicpc.net/problem/24082)                          | [**O**](https://github.com/jejecrunch/2022/blob/main/jejecrunch/BAEKJOON/Riltupoutai_24082.java)          |
 |          | [身長 (Height)](https://www.acmicpc.net/problem/24086)                          | [**O**](https://github.com/jejecrunch/2022/blob/main/jejecrunch/BAEKJOON/Shinchou_24086.java)             |
 |          | [Affischutskicket](https://www.acmicpc.net/problem/24183)                       | [**O**](https://github.com/jejecrunch/2022/blob/main/jejecrunch/BAEKJOON/Affischutskicket_24183.java)     |
 |          | [Double Crypt 1](https://www.acmicpc.net/problem/24218)                         |                                                                                                           |
