@@ -9,12 +9,12 @@
 | 단계 | 제목                                                                          | 출제연도 | 풀이 여부                                                                               |
 | ---- | ----------------------------------------------------------------------------- | -------- | --------------------------------------------------------------------------------------- |
 | 2    | [[3차] 방금그곡](https://programmers.co.kr/learn/courses/30/lessons/17684)    | 2018     | [**O**](https://github.com/jejecrunch/2022/blob/main/jejecrunch/programmers/17684.java) |
-| 2    | [[1차] 캐시](https://programmers.co.kr/learn/courses/30/lessons/17684)        | 2018     |                                                                                         |
+| 2    | [[1차] 캐시](https://programmers.co.kr/learn/courses/30/lessons/17680)        | 2018     | [**O**](https://github.com/jejecrunch/2022/blob/main/jejecrunch/programmers/17680.java) |
 | 2    | [[1차] 프렌즈4블록](https://programmers.co.kr/learn/courses/30/lessons/17684) | 2018     |                                                                                         |
 | 2    | [후보키](https://programmers.co.kr/learn/courses/30/lessons/17684)            | 2019     |                                                                                         |
 | 2    | [튜플](https://programmers.co.kr/learn/courses/30/lessons/17684)              | 2019     |                                                                                         |
 | 2    | [수식 최대화](https://programmers.co.kr/learn/courses/30/lessons/17684)       | 2020     |                                                                                         |
-|      |                                                                               |          | **1**                                                                                   |
+|      |                                                                               |          | **2**                                                                                   |
 
 #
 
@@ -31,7 +31,7 @@
 </details>
 
 <details>
-<summary>백준 단계별로 풀어보기 (55문제)</summary>
+<summary>백준 단계별로 풀어보기 (64문제)</summary>
 <div markdown="1">
 
 | 카테고리 | 제목                                                                            | 풀이 여부                                                                                                 |
@@ -92,6 +92,15 @@
 |          | [알고리즘 수업 - 알고리즘의 수행 시간 1](https://www.acmicpc.net/problem/24262) | [**O**](https://github.com/jejecrunch/2022/blob/main/jejecrunch/BAEKJOON/AlgorhythmTime1_24262.java)      |
 |          | [РАВЕНСТВО](https://www.acmicpc.net/problem/24309)                              | [**O**](https://github.com/jejecrunch/2022/blob/main/jejecrunch/BAEKJOON/РАВЕНСТВО_24309.java)            |
 |          | [Cupcake Party](https://www.acmicpc.net/problem/24568)                          | [**O**](https://github.com/jejecrunch/2022/blob/main/jejecrunch/BAEKJOON/CupcakeParty_24568.java)         |
+|          | [TV 크기](https://www.acmicpc.net/problem/1297)                                 | [**O**](https://github.com/jejecrunch/2022/blob/main/jejecrunch/BAEKJOON/TVSize_1297.java)                |
+|          | [사파리월드](https://www.acmicpc.net/problem/2420)                              | [**O**](https://github.com/jejecrunch/2022/blob/main/jejecrunch/BAEKJOON/Safariworld_2420.java)           |
+|          | [인공지능 시계](https://www.acmicpc.net/problem/2530)                           | [**O**](https://github.com/jejecrunch/2022/blob/main/jejecrunch/BAEKJOON/AIClock_2530.java)               |
+|          | [세수정렬](https://www.acmicpc.net/problem/2752)                                | [**O**](https://github.com/jejecrunch/2022/blob/main/jejecrunch/BAEKJOON/ThreeNumbersSort_2752.java)      |
+|          | [체스판 조각](https://www.acmicpc.net/problem/3004)                             | [**O**](https://github.com/jejecrunch/2022/blob/main/jejecrunch/BAEKJOON/PieceOfChess_3004.java)          |
+|          | [AFC 윔블던](https://www.acmicpc.net/problem/4299)                              | [**O**](https://github.com/jejecrunch/2022/blob/main/jejecrunch/BAEKJOON/AFCWhimbledon_4299.java)         |
+|          | [방학 숙제](https://www.acmicpc.net/problem/4299)                               | [**O**](https://github.com/jejecrunch/2022/blob/main/jejecrunch/BAEKJOON/VacationWork_4299.java)          |
+|          | [상근날드](https://www.acmicpc.net/problem/5543)                                | [**O**](https://github.com/jejecrunch/2022/blob/main/jejecrunch/BAEKJOON/SGNard_5543.java)                |
+|          | [A/B - 2](https://www.acmicpc.net/problem/15792)                                | [**O**](https://github.com/jejecrunch/2022/blob/main/jejecrunch/BAEKJOON/ADivideB2_15792.java)            |
 | 백트래킹 | [연산자 끼워넣기](https://www.acmicpc.net/problem/14888)                        |                                                                                                           |
 | 백트래킹 | [스타트와 링크](https://www.acmicpc.net/problem/14889)                          |                                                                                                           |
 | 수학     | [피보나치 수 3](https://www.acmicpc.net/problem/2749)                           |                                                                                                           |
