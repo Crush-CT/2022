@@ -19,19 +19,20 @@
 #
 
 <details>
-<summary>프로그래머스 연습 문제 (2문제)</summary>
+<summary>프로그래머스 연습 문제 (3문제)</summary>
 <div markdown="1">
 
 | 카테고리 | 제목                                                                     | 풀이 여부                                                                               |
 | -------- | ------------------------------------------------------------------------ | --------------------------------------------------------------------------------------- |
 |          | [줄 서는 방법](https://programmers.co.kr/learn/courses/30/lessons/12936) | [**O**](https://github.com/jejecrunch/2022/blob/main/jejecrunch/programmers/12936.java) |
 |          | [야근 지수](https://programmers.co.kr/learn/courses/30/lessons/12927)    | [**O**](https://github.com/jejecrunch/2022/blob/main/jejecrunch/programmers/12927.java) |
+| 힙       | [더 맵게](https://programmers.co.kr/learn/courses/30/lessons/42626)      | [**O**](https://github.com/jejecrunch/2022/blob/main/jejecrunch/programmers/42626.java) |
 
 </div>
 </details>
 
 <details>
-<summary>백준 단계별로 풀어보기 (64문제)</summary>
+<summary>백준 단계별로 풀어보기 (65문제)</summary>
 <div markdown="1">
 
 | 카테고리 | 제목                                                                            | 풀이 여부                                                                                                 |
@@ -101,6 +102,7 @@
 |          | [방학 숙제](https://www.acmicpc.net/problem/4299)                               | [**O**](https://github.com/jejecrunch/2022/blob/main/jejecrunch/BAEKJOON/VacationWork_4299.java)          |
 |          | [상근날드](https://www.acmicpc.net/problem/5543)                                | [**O**](https://github.com/jejecrunch/2022/blob/main/jejecrunch/BAEKJOON/SGNard_5543.java)                |
 |          | [A/B - 2](https://www.acmicpc.net/problem/15792)                                | [**O**](https://github.com/jejecrunch/2022/blob/main/jejecrunch/BAEKJOON/ADivideB2_15792.java)            |
+|          | [타임 카드](https://www.acmicpc.net/problem/5575)                               | [**O**](https://github.com/jejecrunch/2022/blob/main/jejecrunch/BAEKJOON/TimeCard_5575.java)              |
 | 백트래킹 | [연산자 끼워넣기](https://www.acmicpc.net/problem/14888)                        |                                                                                                           |
 | 백트래킹 | [스타트와 링크](https://www.acmicpc.net/problem/14889)                          |                                                                                                           |
 | 수학     | [피보나치 수 3](https://www.acmicpc.net/problem/2749)                           |                                                                                                           |
