@@ -32,7 +32,7 @@
 </details>
 
 <details>
-<summary>백준 단계별로 풀어보기 (65문제)</summary>
+<summary>백준 단계별로 풀어보기 (68문제)</summary>
 <div markdown="1">
 
 | 카테고리 | 제목                                                                            | 풀이 여부                                                                                                 |
@@ -103,6 +103,9 @@
 |          | [상근날드](https://www.acmicpc.net/problem/5543)                                | [**O**](https://github.com/jejecrunch/2022/blob/main/jejecrunch/BAEKJOON/SGNard_5543.java)                |
 |          | [A/B - 2](https://www.acmicpc.net/problem/15792)                                | [**O**](https://github.com/jejecrunch/2022/blob/main/jejecrunch/BAEKJOON/ADivideB2_15792.java)            |
 |          | [타임 카드](https://www.acmicpc.net/problem/5575)                               | [**O**](https://github.com/jejecrunch/2022/blob/main/jejecrunch/BAEKJOON/TimeCard_5575.java)              |
+|          | [시험 점수](https://www.acmicpc.net/problem/5596)                               | [**O**](https://github.com/jejecrunch/2022/blob/main/jejecrunch/BAEKJOON/TestScore_5596.java)             |
+|          | [17배](https://www.acmicpc.net/problem/5893)                                    | [**O**](https://github.com/jejecrunch/2022/blob/main/jejecrunch/BAEKJOON/Multiply17_5893.java)            |
+|          | [삼각형 외우기](https://www.acmicpc.net/problem/10101)                          | [**O**](https://github.com/jejecrunch/2022/blob/main/jejecrunch/BAEKJOON/MemorizeTriangle_10101.java)     |
 | 백트래킹 | [연산자 끼워넣기](https://www.acmicpc.net/problem/14888)                        |                                                                                                           |
 | 백트래킹 | [스타트와 링크](https://www.acmicpc.net/problem/14889)                          |                                                                                                           |
 | 수학     | [피보나치 수 3](https://www.acmicpc.net/problem/2749)                           |                                                                                                           |
