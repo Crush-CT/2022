@@ -19,20 +19,21 @@
 #
 
 <details>
-<summary>프로그래머스 연습 문제 (3문제)</summary>
+<summary>프로그래머스 연습 문제 (4문제)</summary>
 <div markdown="1">
 
 | 카테고리 | 제목                                                                     | 풀이 여부                                                                               |
 | -------- | ------------------------------------------------------------------------ | --------------------------------------------------------------------------------------- |
 |          | [줄 서는 방법](https://programmers.co.kr/learn/courses/30/lessons/12936) | [**O**](https://github.com/jejecrunch/2022/blob/main/jejecrunch/programmers/12936.java) |
 |          | [야근 지수](https://programmers.co.kr/learn/courses/30/lessons/12927)    | [**O**](https://github.com/jejecrunch/2022/blob/main/jejecrunch/programmers/12927.java) |
+|          | [2 x n 타일링](https://programmers.co.kr/learn/courses/30/lessons/12900) | [**O**](https://github.com/jejecrunch/2022/blob/main/jejecrunch/programmers/12900.java) |
 | 힙       | [더 맵게](https://programmers.co.kr/learn/courses/30/lessons/42626)      | [**O**](https://github.com/jejecrunch/2022/blob/main/jejecrunch/programmers/42626.java) |
 
 </div>
 </details>
 
 <details>
-<summary>백준 단계별로 풀어보기 (68문제)</summary>
+<summary>백준 단계별로 풀어보기 (71문제)</summary>
 <div markdown="1">
 
 | 카테고리 | 제목                                                                            | 풀이 여부                                                                                                 |
@@ -106,6 +107,9 @@
 |          | [시험 점수](https://www.acmicpc.net/problem/5596)                               | [**O**](https://github.com/jejecrunch/2022/blob/main/jejecrunch/BAEKJOON/TestScore_5596.java)             |
 |          | [17배](https://www.acmicpc.net/problem/5893)                                    | [**O**](https://github.com/jejecrunch/2022/blob/main/jejecrunch/BAEKJOON/Multiply17_5893.java)            |
 |          | [삼각형 외우기](https://www.acmicpc.net/problem/10101)                          | [**O**](https://github.com/jejecrunch/2022/blob/main/jejecrunch/BAEKJOON/MemorizeTriangle_10101.java)     |
+|          | [과자](https://www.acmicpc.net/problem/10156)                                   | [**O**](https://github.com/jejecrunch/2022/blob/main/jejecrunch/BAEKJOON/Snack_10156.java)                |
+|          | [전자레인지](https://www.acmicpc.net/problem/10162)                             | [**O**](https://github.com/jejecrunch/2022/blob/main/jejecrunch/BAEKJOON/Microwave.java)                  |
+|          | [수도 요금](https://www.acmicpc.net/problem/10707)                              | [**O**](https://github.com/jejecrunch/2022/blob/main/jejecrunch/BAEKJOON/WaterBill_10707.java)            |
 | 백트래킹 | [연산자 끼워넣기](https://www.acmicpc.net/problem/14888)                        |                                                                                                           |
 | 백트래킹 | [스타트와 링크](https://www.acmicpc.net/problem/14889)                          |                                                                                                           |
 | 수학     | [피보나치 수 3](https://www.acmicpc.net/problem/2749)                           |                                                                                                           |
