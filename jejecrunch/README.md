@@ -19,23 +19,26 @@
 #
 
 <details>
-<summary>프로그래머스 연습 문제 (6문제)</summary>
+<summary>프로그래머스 연습 문제 (8문제)</summary>
 <div markdown="1">
 
-| 카테고리 | 제목                                                                         | 풀이 여부                                                                               |
-| -------- | ---------------------------------------------------------------------------- | --------------------------------------------------------------------------------------- |
-|          | [줄 서는 방법](https://programmers.co.kr/learn/courses/30/lessons/12936)     | [**O**](https://github.com/jejecrunch/2022/blob/main/jejecrunch/programmers/12936.java) |
-|          | [야근 지수](https://programmers.co.kr/learn/courses/30/lessons/12927)        | [**O**](https://github.com/jejecrunch/2022/blob/main/jejecrunch/programmers/12927.java) |
-|          | [멀리 뛰기](https://programmers.co.kr/learn/courses/30/lessons/12914)        | [**O**](https://github.com/jejecrunch/2022/blob/main/jejecrunch/programmers/12914.java) |
-|          | [이중 우선순위 큐](https://programmers.co.kr/learn/courses/30/lessons/42628) | [**O**](https://github.com/jejecrunch/2022/blob/main/jejecrunch/programmers/42628.java) |
-|          | [2 x n 타일링](https://programmers.co.kr/learn/courses/30/lessons/12900)     | [**O**](https://github.com/jejecrunch/2022/blob/main/jejecrunch/programmers/12900.java) |
-| 힙       | [더 맵게](https://programmers.co.kr/learn/courses/30/lessons/42626)          | [**O**](https://github.com/jejecrunch/2022/blob/main/jejecrunch/programmers/42626.java) |
+| 카테고리 | 제목                                                                                     | 풀이 여부                                                                               |
+| -------- | ---------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------- |
+|          | [직사각형 별찍기](https://programmers.co.kr/learn/courses/30/lessons/12969)              | [**O**](https://github.com/jejecrunch/2022/blob/main/jejecrunch/programmers/12969.js)   |
+|          | [x만큼 간격이 있는 n개의 숫자](https://programmers.co.kr/learn/courses/30/lessons/12954) | [**O**](https://github.com/jejecrunch/2022/blob/main/jejecrunch/programmers/12954.js)   |
+|          | [줄 서는 방법](https://programmers.co.kr/learn/courses/30/lessons/12936)                 | [**O**](https://github.com/jejecrunch/2022/blob/main/jejecrunch/programmers/12936.java) |
+|          | [줄 서는 방법](https://programmers.co.kr/learn/courses/30/lessons/12936)                 | [**O**](https://github.com/jejecrunch/2022/blob/main/jejecrunch/programmers/12936.java) |
+|          | [야근 지수](https://programmers.co.kr/learn/courses/30/lessons/12927)                    | [**O**](https://github.com/jejecrunch/2022/blob/main/jejecrunch/programmers/12927.java) |
+|          | [멀리 뛰기](https://programmers.co.kr/learn/courses/30/lessons/12914)                    | [**O**](https://github.com/jejecrunch/2022/blob/main/jejecrunch/programmers/12914.java) |
+|          | [이중 우선순위 큐](https://programmers.co.kr/learn/courses/30/lessons/42628)             | [**O**](https://github.com/jejecrunch/2022/blob/main/jejecrunch/programmers/42628.java) |
+|          | [2 x n 타일링](https://programmers.co.kr/learn/courses/30/lessons/12900)                 | [**O**](https://github.com/jejecrunch/2022/blob/main/jejecrunch/programmers/12900.java) |
+| 힙       | [더 맵게](https://programmers.co.kr/learn/courses/30/lessons/42626)                      | [**O**](https://github.com/jejecrunch/2022/blob/main/jejecrunch/programmers/42626.java) |
 
 </div>
 </details>
 
 <details>
-<summary>백준 단계별로 풀어보기 (73문제)</summary>
+<summary>백준 단계별로 풀어보기 (74문제)</summary>
 <div markdown="1">
 
 | 카테고리 | 제목                                                                            | 풀이 여부                                                                                                 |
@@ -108,6 +111,7 @@
 |          | [타임 카드](https://www.acmicpc.net/problem/5575)                               | [**O**](https://github.com/jejecrunch/2022/blob/main/jejecrunch/BAEKJOON/TimeCard_5575.java)              |
 |          | [시험 점수](https://www.acmicpc.net/problem/5596)                               | [**O**](https://github.com/jejecrunch/2022/blob/main/jejecrunch/BAEKJOON/TestScore_5596.java)             |
 |          | [17배](https://www.acmicpc.net/problem/5893)                                    | [**O**](https://github.com/jejecrunch/2022/blob/main/jejecrunch/BAEKJOON/Multiply17_5893.java)            |
+|          | [Contest Timing](https://www.acmicpc.net/problem/5928)                          | [**O**](https://github.com/jejecrunch/2022/blob/main/jejecrunch/BAEKJOON/ContestTiming_5928.java)         |
 |          | [ISBN](https://www.acmicpc.net/problem/6810)                                    | [**O**](https://github.com/jejecrunch/2022/blob/main/jejecrunch/BAEKJOON/ISBN_6810.java)                  |
 |          | [삼각형 외우기](https://www.acmicpc.net/problem/10101)                          | [**O**](https://github.com/jejecrunch/2022/blob/main/jejecrunch/BAEKJOON/MemorizeTriangle_10101.java)     |
 |          | [과자](https://www.acmicpc.net/problem/10156)                                   | [**O**](https://github.com/jejecrunch/2022/blob/main/jejecrunch/BAEKJOON/Snack_10156.java)                |
