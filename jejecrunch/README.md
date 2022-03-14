@@ -19,16 +19,18 @@
 #
 
 <details>
-<summary>프로그래머스 연습 문제 (10문제)</summary>
+<summary>프로그래머스 연습 문제 (13문제)</summary>
 <div markdown="1">
 
 | 카테고리 | 제목                                                                                     | 풀이 여부                                                                               |
 | -------- | ---------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------- |
 |          | [직사각형 별찍기](https://programmers.co.kr/learn/courses/30/lessons/12969)              | [**O**](https://github.com/jejecrunch/2022/blob/main/jejecrunch/programmers/12969.js)   |
 |          | [x만큼 간격이 있는 n개의 숫자](https://programmers.co.kr/learn/courses/30/lessons/12954) | [**O**](https://github.com/jejecrunch/2022/blob/main/jejecrunch/programmers/12954.js)   |
+|          | [행렬의 덧셈](https://programmers.co.kr/learn/courses/30/lessons/12950)                  | [**O**](https://github.com/jejecrunch/2022/blob/main/jejecrunch/programmers/12950.java) |
 |          | [핸드폰 번호 가리기](https://programmers.co.kr/learn/courses/30/lessons/12948)           | [**O**](https://github.com/jejecrunch/2022/blob/main/jejecrunch/programmers/12948.js)   |
 |          | [하샤드 수](https://programmers.co.kr/learn/courses/30/lessons/12947)                    | [**O**](https://github.com/jejecrunch/2022/blob/main/jejecrunch/programmers/12947.js)   |
-|          | [줄 서는 방법](https://programmers.co.kr/learn/courses/30/lessons/12936)                 | [**O**](https://github.com/jejecrunch/2022/blob/main/jejecrunch/programmers/12936.java) |
+|          | [평균 구하기](https://programmers.co.kr/learn/courses/30/lessons/12944)                  | [**O**](https://github.com/jejecrunch/2022/blob/main/jejecrunch/programmers/12944.java) |
+|          | [콜라츠 추측](https://programmers.co.kr/learn/courses/30/lessons/12943)                  | [**O**](https://github.com/jejecrunch/2022/blob/main/jejecrunch/programmers/12943.java) |
 |          | [줄 서는 방법](https://programmers.co.kr/learn/courses/30/lessons/12936)                 | [**O**](https://github.com/jejecrunch/2022/blob/main/jejecrunch/programmers/12936.java) |
 |          | [야근 지수](https://programmers.co.kr/learn/courses/30/lessons/12927)                    | [**O**](https://github.com/jejecrunch/2022/blob/main/jejecrunch/programmers/12927.java) |
 |          | [멀리 뛰기](https://programmers.co.kr/learn/courses/30/lessons/12914)                    | [**O**](https://github.com/jejecrunch/2022/blob/main/jejecrunch/programmers/12914.java) |
@@ -40,7 +42,7 @@
 </details>
 
 <details>
-<summary>백준 단계별로 풀어보기 (75문제)</summary>
+<summary>백준 단계별로 풀어보기 (78문제)</summary>
 <div markdown="1">
 
 | 카테고리 | 제목                                                                            | 풀이 여부                                                                                                 |
@@ -115,11 +117,14 @@
 |          | [17배](https://www.acmicpc.net/problem/5893)                                    | [**O**](https://github.com/jejecrunch/2022/blob/main/jejecrunch/BAEKJOON/Multiply17_5893.java)            |
 |          | [Contest Timing](https://www.acmicpc.net/problem/5928)                          | [**O**](https://github.com/jejecrunch/2022/blob/main/jejecrunch/BAEKJOON/ContestTiming_5928.java)         |
 |          | [Speed fines are not fine!](https://www.acmicpc.net/problem/6763)               | [**O**](https://github.com/jejecrunch/2022/blob/main/jejecrunch/BAEKJOON/SpeedFinesAreNotFine_6763.java)  |
+|          | [Sounds fishy!](https://www.acmicpc.net/problem/6764)                           | [**O**](https://github.com/jejecrunch/2022/blob/main/jejecrunch/BAEKJOON/SoundsFishy_6764.java)           |
+|          | [Which Alien?](https://www.acmicpc.net/problem/6778)                            | [**O**](https://github.com/jejecrunch/2022/blob/main/jejecrunch/BAEKJOON/WhichAlien_6778.java)            |
 |          | [ISBN](https://www.acmicpc.net/problem/6810)                                    | [**O**](https://github.com/jejecrunch/2022/blob/main/jejecrunch/BAEKJOON/ISBN_6810.java)                  |
 |          | [삼각형 외우기](https://www.acmicpc.net/problem/10101)                          | [**O**](https://github.com/jejecrunch/2022/blob/main/jejecrunch/BAEKJOON/MemorizeTriangle_10101.java)     |
 |          | [과자](https://www.acmicpc.net/problem/10156)                                   | [**O**](https://github.com/jejecrunch/2022/blob/main/jejecrunch/BAEKJOON/Snack_10156.java)                |
 |          | [전자레인지](https://www.acmicpc.net/problem/10162)                             | [**O**](https://github.com/jejecrunch/2022/blob/main/jejecrunch/BAEKJOON/Microwave.java)                  |
 |          | [수도 요금](https://www.acmicpc.net/problem/10707)                              | [**O**](https://github.com/jejecrunch/2022/blob/main/jejecrunch/BAEKJOON/WaterBill_10707.java)            |
+|          | [특별한 날](https://www.acmicpc.net/problem/10768)                              | [**O**](https://github.com/jejecrunch/2022/blob/main/jejecrunch/BAEKJOON/SpecialDay_10768.java)           |
 | 백트래킹 | [연산자 끼워넣기](https://www.acmicpc.net/problem/14888)                        |                                                                                                           |
 | 백트래킹 | [스타트와 링크](https://www.acmicpc.net/problem/14889)                          |                                                                                                           |
 | 수학     | [피보나치 수 3](https://www.acmicpc.net/problem/2749)                           | [**O**](https://github.com/jejecrunch/2022/blob/main/jejecrunch/BAEKJOON/Fibonacci3_2749.java)            |
