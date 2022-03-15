@@ -19,7 +19,7 @@
 #
 
 <details>
-<summary>프로그래머스 연습 문제 (13문제)</summary>
+<summary>프로그래머스 연습 문제 (17문제)</summary>
 <div markdown="1">
 
 | 카테고리 | 제목                                                                                     | 풀이 여부                                                                               |
@@ -31,6 +31,10 @@
 |          | [하샤드 수](https://programmers.co.kr/learn/courses/30/lessons/12947)                    | [**O**](https://github.com/jejecrunch/2022/blob/main/jejecrunch/programmers/12947.js)   |
 |          | [평균 구하기](https://programmers.co.kr/learn/courses/30/lessons/12944)                  | [**O**](https://github.com/jejecrunch/2022/blob/main/jejecrunch/programmers/12944.java) |
 |          | [콜라츠 추측](https://programmers.co.kr/learn/courses/30/lessons/12943)                  | [**O**](https://github.com/jejecrunch/2022/blob/main/jejecrunch/programmers/12943.java) |
+|          | [최대공약수와 최소공배수](https://programmers.co.kr/learn/courses/30/lessons/12940)      | [**O**](https://github.com/jejecrunch/2022/blob/main/jejecrunch/programmers/12940.java) |
+|          | [짝수와 홀수](https://programmers.co.kr/learn/courses/30/lessons/12937)                  | [**O**](https://github.com/jejecrunch/2022/blob/main/jejecrunch/programmers/12937.java) |
+|          | [제일 작은 수 제거하기](https://programmers.co.kr/learn/courses/30/lessons/12935)        | [**O**](https://github.com/jejecrunch/2022/blob/main/jejecrunch/programmers/12935.java) |
+|          | [정수 제곱근 판별](https://programmers.co.kr/learn/courses/30/lessons/12934)             | [**O**](https://github.com/jejecrunch/2022/blob/main/jejecrunch/programmers/12934.java) |
 |          | [줄 서는 방법](https://programmers.co.kr/learn/courses/30/lessons/12936)                 | [**O**](https://github.com/jejecrunch/2022/blob/main/jejecrunch/programmers/12936.java) |
 |          | [야근 지수](https://programmers.co.kr/learn/courses/30/lessons/12927)                    | [**O**](https://github.com/jejecrunch/2022/blob/main/jejecrunch/programmers/12927.java) |
 |          | [멀리 뛰기](https://programmers.co.kr/learn/courses/30/lessons/12914)                    | [**O**](https://github.com/jejecrunch/2022/blob/main/jejecrunch/programmers/12914.java) |
@@ -42,7 +46,7 @@
 </details>
 
 <details>
-<summary>백준 단계별로 풀어보기 (78문제)</summary>
+<summary>백준 단계별로 풀어보기 (80문제)</summary>
 <div markdown="1">
 
 | 카테고리 | 제목                                                                            | 풀이 여부                                                                                                 |
@@ -125,6 +129,8 @@
 |          | [전자레인지](https://www.acmicpc.net/problem/10162)                             | [**O**](https://github.com/jejecrunch/2022/blob/main/jejecrunch/BAEKJOON/Microwave.java)                  |
 |          | [수도 요금](https://www.acmicpc.net/problem/10707)                              | [**O**](https://github.com/jejecrunch/2022/blob/main/jejecrunch/BAEKJOON/WaterBill_10707.java)            |
 |          | [특별한 날](https://www.acmicpc.net/problem/10768)                              | [**O**](https://github.com/jejecrunch/2022/blob/main/jejecrunch/BAEKJOON/SpecialDay_10768.java)           |
+|          | [10부제](https://www.acmicpc.net/problem/10797)                                 | [**O**](https://github.com/jejecrunch/2022/blob/main/jejecrunch/BAEKJOON/TenSeido_10797.java)             |
+|          | [한글](https://www.acmicpc.net/problem/11282)                                   | [**O**](https://github.com/jejecrunch/2022/blob/main/jejecrunch/BAEKJOON/Hangul_11282.java)               |
 | 백트래킹 | [연산자 끼워넣기](https://www.acmicpc.net/problem/14888)                        |                                                                                                           |
 | 백트래킹 | [스타트와 링크](https://www.acmicpc.net/problem/14889)                          |                                                                                                           |
 | 수학     | [피보나치 수 3](https://www.acmicpc.net/problem/2749)                           | [**O**](https://github.com/jejecrunch/2022/blob/main/jejecrunch/BAEKJOON/Fibonacci3_2749.java)            |
