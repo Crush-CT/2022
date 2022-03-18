@@ -19,7 +19,7 @@
 #
 
 <details>
-<summary>프로그래머스 연습 문제 (21문제)</summary>
+<summary>프로그래머스 연습 문제 (27문제)</summary>
 <div markdown="1">
 
 | 카테고리 | 제목                                                                                     | 풀이 여부                                                                               |
@@ -39,6 +39,12 @@
 |          | [자연수 뒤집어 배열로 만들기](https://programmers.co.kr/learn/courses/30/lessons/12932)  | [**O**](https://github.com/jejecrunch/2022/blob/main/jejecrunch/programmers/12932.js)   |
 |          | [자릿수 더하기](https://programmers.co.kr/learn/courses/30/lessons/12931)                | [**O**](https://github.com/jejecrunch/2022/blob/main/jejecrunch/programmers/12931.js)   |
 |          | [이상한 문자 만들기](https://programmers.co.kr/learn/courses/30/lessons/12930)           | [**O**](https://github.com/jejecrunch/2022/blob/main/jejecrunch/programmers/12930.js)   |
+|          | [약수의 합](https://programmers.co.kr/learn/courses/30/lessons/12928)                    | [**O**](https://github.com/jejecrunch/2022/blob/main/jejecrunch/programmers/12928.js)   |
+|          | [시저 암호](https://programmers.co.kr/learn/courses/30/lessons/12926)                    | [**O**](https://github.com/jejecrunch/2022/blob/main/jejecrunch/programmers/12926.js)   |
+|          | [문자열을 정수로 바꾸기](https://programmers.co.kr/learn/courses/30/lessons/12925)       | [**O**](https://github.com/jejecrunch/2022/blob/main/jejecrunch/programmers/12925.js)   |
+|          | [수박수박수박수박수박수?](https://programmers.co.kr/learn/courses/30/lessons/12922)      | [**O**](https://github.com/jejecrunch/2022/blob/main/jejecrunch/programmers/12922.js)   |
+|          | [소수 찾기](https://programmers.co.kr/learn/courses/30/lessons/12921)                    | [**O**](https://github.com/jejecrunch/2022/blob/main/jejecrunch/programmers/12921.js)   |
+|          | [서울에서 김서방 찾기](https://programmers.co.kr/learn/courses/30/lessons/12919)         | [**O**](https://github.com/jejecrunch/2022/blob/main/jejecrunch/programmers/12919.js)   |
 |          | [줄 서는 방법](https://programmers.co.kr/learn/courses/30/lessons/12936)                 | [**O**](https://github.com/jejecrunch/2022/blob/main/jejecrunch/programmers/12936.java) |
 |          | [야근 지수](https://programmers.co.kr/learn/courses/30/lessons/12927)                    | [**O**](https://github.com/jejecrunch/2022/blob/main/jejecrunch/programmers/12927.java) |
 |          | [멀리 뛰기](https://programmers.co.kr/learn/courses/30/lessons/12914)                    | [**O**](https://github.com/jejecrunch/2022/blob/main/jejecrunch/programmers/12914.java) |
@@ -50,7 +56,7 @@
 </details>
 
 <details>
-<summary>백준 단계별로 풀어보기 (84문제)</summary>
+<summary>백준 단계별로 풀어보기 (88문제)</summary>
 <div markdown="1">
 
 | 카테고리 | 제목                                                                            | 풀이 여부                                                                                                 |
@@ -128,6 +134,10 @@
 |          | [Sounds fishy!](https://www.acmicpc.net/problem/6764)                           | [**O**](https://github.com/jejecrunch/2022/blob/main/jejecrunch/BAEKJOON/SoundsFishy_6764.java)           |
 |          | [Which Alien?](https://www.acmicpc.net/problem/6778)                            | [**O**](https://github.com/jejecrunch/2022/blob/main/jejecrunch/BAEKJOON/WhichAlien_6778.java)            |
 |          | [ISBN](https://www.acmicpc.net/problem/6810)                                    | [**O**](https://github.com/jejecrunch/2022/blob/main/jejecrunch/BAEKJOON/ISBN_6810.java)                  |
+|          | [Tabliczka](https://www.acmicpc.net/problem/8674)                               | [**O**](https://github.com/jejecrunch/2022/blob/main/jejecrunch/BAEKJOON/Tabliczka_8674.java)             |
+|          | [Koszykarz](https://www.acmicpc.net/problem/8710)                               | [**O**](https://github.com/jejecrunch/2022/blob/main/jejecrunch/BAEKJOON/Koszykarz_8710.java)             |
+|          | [Bałwanek](https://www.acmicpc.net/problem/8718)                                | [**O**](https://github.com/jejecrunch/2022/blob/main/jejecrunch/BAEKJOON/Balwanek_8718.java)              |
+|          | [Patyki](https://www.acmicpc.net/problem/8723)                                  | [**O**](https://github.com/jejecrunch/2022/blob/main/jejecrunch/BAEKJOON/Patyki_8723.java)                |
 |          | [삼각형 외우기](https://www.acmicpc.net/problem/10101)                          | [**O**](https://github.com/jejecrunch/2022/blob/main/jejecrunch/BAEKJOON/MemorizeTriangle_10101.java)     |
 |          | [과자](https://www.acmicpc.net/problem/10156)                                   | [**O**](https://github.com/jejecrunch/2022/blob/main/jejecrunch/BAEKJOON/Snack_10156.java)                |
 |          | [전자레인지](https://www.acmicpc.net/problem/10162)                             | [**O**](https://github.com/jejecrunch/2022/blob/main/jejecrunch/BAEKJOON/Microwave.java)                  |
