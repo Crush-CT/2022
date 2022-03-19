@@ -19,7 +19,7 @@
 #
 
 <details>
-<summary>프로그래머스 연습 문제 (27문제)</summary>
+<summary>프로그래머스 연습 문제 (37문제)</summary>
 <div markdown="1">
 
 | 카테고리 | 제목                                                                                     | 풀이 여부                                                                               |
@@ -45,6 +45,16 @@
 |          | [수박수박수박수박수박수?](https://programmers.co.kr/learn/courses/30/lessons/12922)      | [**O**](https://github.com/jejecrunch/2022/blob/main/jejecrunch/programmers/12922.js)   |
 |          | [소수 찾기](https://programmers.co.kr/learn/courses/30/lessons/12921)                    | [**O**](https://github.com/jejecrunch/2022/blob/main/jejecrunch/programmers/12921.js)   |
 |          | [서울에서 김서방 찾기](https://programmers.co.kr/learn/courses/30/lessons/12919)         | [**O**](https://github.com/jejecrunch/2022/blob/main/jejecrunch/programmers/12919.js)   |
+|          | [문자열 다루기 기본](https://programmers.co.kr/learn/courses/30/lessons/12918)           | [**O**](https://github.com/jejecrunch/2022/blob/main/jejecrunch/programmers/12918.js)   |
+|          | [문자열 내림차순으로 배치하기](https://programmers.co.kr/learn/courses/30/lessons/12917) | [**O**](https://github.com/jejecrunch/2022/blob/main/jejecrunch/programmers/12917.js)   |
+|          | [문자열 내 p와 y의 개수](https://programmers.co.kr/learn/courses/30/lessons/12916)       | [**O**](https://github.com/jejecrunch/2022/blob/main/jejecrunch/programmers/12916.js)   |
+|          | [문자열 내 마음대로 정렬하기](https://programmers.co.kr/learn/courses/30/lessons/12915)  | [**O**](https://github.com/jejecrunch/2022/blob/main/jejecrunch/programmers/12915.js)   |
+|          | [두 정수 사이의 합](https://programmers.co.kr/learn/courses/30/lessons/12912)            | [**O**](https://github.com/jejecrunch/2022/blob/main/jejecrunch/programmers/12912.js)   |
+|          | [나누어 떨어지는 숫자 배열](https://programmers.co.kr/learn/courses/30/lessons/12910)    | [**O**](https://github.com/jejecrunch/2022/blob/main/jejecrunch/programmers/12910.js)   |
+|          | [같은 숫자는 싫어](https://programmers.co.kr/learn/courses/30/lessons/12906)             | [**O**](https://github.com/jejecrunch/2022/blob/main/jejecrunch/programmers/12906.js)   |
+|          | [가운데 글자 가져오기](https://programmers.co.kr/learn/courses/30/lessons/12903)         | [**O**](https://github.com/jejecrunch/2022/blob/main/jejecrunch/programmers/12903.js)   |
+|          | [부족한 금액 계산하기](https://programmers.co.kr/learn/courses/30/lessons/82612)         | [**O**](https://github.com/jejecrunch/2022/blob/main/jejecrunch/programmers/82612.js)   |
+|          | [나머지가 1이 되는 수 찾기](https://programmers.co.kr/learn/courses/30/lessons/87389)    | [**O**](https://github.com/jejecrunch/2022/blob/main/jejecrunch/programmers/87389.js)   |
 |          | [줄 서는 방법](https://programmers.co.kr/learn/courses/30/lessons/12936)                 | [**O**](https://github.com/jejecrunch/2022/blob/main/jejecrunch/programmers/12936.java) |
 |          | [야근 지수](https://programmers.co.kr/learn/courses/30/lessons/12927)                    | [**O**](https://github.com/jejecrunch/2022/blob/main/jejecrunch/programmers/12927.java) |
 |          | [멀리 뛰기](https://programmers.co.kr/learn/courses/30/lessons/12914)                    | [**O**](https://github.com/jejecrunch/2022/blob/main/jejecrunch/programmers/12914.java) |
@@ -56,7 +66,7 @@
 </details>
 
 <details>
-<summary>백준 단계별로 풀어보기 (88문제)</summary>
+<summary>백준 단계별로 풀어보기 (93문제)</summary>
 <div markdown="1">
 
 | 카테고리 | 제목                                                                            | 풀이 여부                                                                                                 |
@@ -149,6 +159,11 @@
 |          | [파일 옮기기](https://www.acmicpc.net/problem/11943)                            | [**O**](https://github.com/jejecrunch/2022/blob/main/jejecrunch/BAEKJOON/MoveFile_11943.java)             |
 |          | [과목선택](https://www.acmicpc.net/problem/11948)                               | [**O**](https://github.com/jejecrunch/2022/blob/main/jejecrunch/BAEKJOON/SelectSubject_11948.java)        |
 |          | [Do Not Touch Anything](https://www.acmicpc.net/problem/13136)                  | [**O**](https://github.com/jejecrunch/2022/blob/main/jejecrunch/BAEKJOON/DoNotTouchAnything_13136.java)   |
+|          | [Andando no tempo](https://www.acmicpc.net/problem/13580)                       | [**O**](https://github.com/jejecrunch/2022/blob/main/jejecrunch/BAEKJOON/AndandoNoTempo_13580.java)       |
+|          | [Tri-du](https://www.acmicpc.net/problem/13580)                                 | [**O**](https://github.com/jejecrunch/2022/blob/main/jejecrunch/BAEKJOON/Tridu_13580.java)                |
+|          | [팀 나누기](https://www.acmicpc.net/problem/13866)                              | [**O**](https://github.com/jejecrunch/2022/blob/main/jejecrunch/BAEKJOON/SplitTeam_13866.java)            |
+|          | [Equality](https://www.acmicpc.net/problem/13985)                               | [**O**](https://github.com/jejecrunch/2022/blob/main/jejecrunch/BAEKJOON/Equality_13985.java)             |
+|          | [Tournament Selction](https://www.acmicpc.net/problem/14038)                    | [**O**](https://github.com/jejecrunch/2022/blob/main/jejecrunch/BAEKJOON/TournamentSelection_14038.java)  |
 | 백트래킹 | [연산자 끼워넣기](https://www.acmicpc.net/problem/14888)                        |                                                                                                           |
 | 백트래킹 | [스타트와 링크](https://www.acmicpc.net/problem/14889)                          |                                                                                                           |
 | 수학     | [피보나치 수 3](https://www.acmicpc.net/problem/2749)                           | [**O**](https://github.com/jejecrunch/2022/blob/main/jejecrunch/BAEKJOON/Fibonacci3_2749.java)            |
