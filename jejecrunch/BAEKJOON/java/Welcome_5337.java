@@ -1,5 +1,3 @@
-package java;
-
 public class Welcome_5337 {
     public static void main(String[] args) {
         System.out.println(".  .   .");

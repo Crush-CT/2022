@@ -1,5 +1,3 @@
-package java;
-
 public class CallCenter_5339 {
     public static void main(String[] args) {
         System.out.println("     /~\\");

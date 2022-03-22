@@ -1,5 +1,3 @@
-package java;
-
 import java.io.*;
 
 public class DoNotTouchAnything_13136 {

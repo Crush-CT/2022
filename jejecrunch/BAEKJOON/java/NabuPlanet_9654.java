@@ -1,5 +1,3 @@
-package java;
-
 public class NabuPlanet_9654 {
     public static void main(String[] args) {
         System.out.println("SHIP NAME      CLASS          DEPLOYMENT IN SERVICE");

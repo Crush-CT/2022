@@ -1,5 +1,3 @@
-package java;
-
 import java.io.*;
 
 public class R2_3046 {

@@ -1,5 +1,3 @@
-package java;
-
 import java.util.*;
 
 public class HongikUniv_16394 {

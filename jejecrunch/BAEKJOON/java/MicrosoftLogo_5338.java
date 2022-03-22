@@ -1,5 +1,3 @@
-package java;
-
 public class MicrosoftLogo_5338 {
     public static void main(String[] args) {
         System.out.println("       _.-;;-._");

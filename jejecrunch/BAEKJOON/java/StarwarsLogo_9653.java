@@ -1,5 +1,3 @@
-package java;
-
 public class StarwarsLogo_9653 {
     public static void main(String[] args) {
         System.out.println("    8888888888  888    88888");

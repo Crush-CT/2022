@@ -1,5 +1,3 @@
-package java;
-
 import java.io.*;
 
 public class AfterParty_2845 {

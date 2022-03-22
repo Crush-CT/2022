@@ -1,5 +1,3 @@
-package java;
-
 import java.io.*;
 
 public class Tridu_13597 {

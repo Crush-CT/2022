@@ -1,5 +1,3 @@
-package java;
-
 import java.io.*;
 
 public class Affischutskicket_24183 {
