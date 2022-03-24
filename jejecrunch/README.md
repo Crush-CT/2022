@@ -20,7 +20,7 @@
 #
 
 <details>
-<summary>프로그래머스 연습 문제 (52문제)</summary>
+<summary>프로그래머스 연습 문제 (54문제)</summary>
 <div markdown="1">
 
 | 카테고리 | 제목                                                                                     | 풀이 여부                                                                                                    |
@@ -71,12 +71,14 @@
 |          | [음양 더하기](https://programmers.co.kr/learn/courses/30/lessons/76501)                  | [**js**](https://github.com/jejecrunch/2022/blob/main/jejecrunch/programmers/javascript/76501.js)            |
 |          | [없는 숫자 더하기](https://programmers.co.kr/learn/courses/30/lessons/86051)             | [**js**](https://github.com/jejecrunch/2022/blob/main/jejecrunch/programmers/javascript/86051.js)            |
 |          | [로또의 최고 순위와 최저 순위](https://programmers.co.kr/learn/courses/30/lessons/77484) | [**js**](https://github.com/jejecrunch/2022/blob/main/jejecrunch/programmers/javascript/77484.js)            |
+| 정렬     | [가장 큰 수](https://programmers.co.kr/learn/courses/30/lessons/42746)                   | [**js**](https://github.com/jejecrunch/2022/blob/main/jejecrunch/programmers/javascript/42746.js)            |
+| 정렬     | [H-Index](https://programmers.co.kr/learn/courses/30/lessons/42747)                      | [**js**](https://github.com/jejecrunch/2022/blob/main/jejecrunch/programmers/javascript/42747.js)            |
 |          | [줄 서는 방법](https://programmers.co.kr/learn/courses/30/lessons/12936)                 | [**java**](https://github.com/jejecrunch/2022/blob/main/jejecrunch/programmers/java/12936.java)              |
 |          | [야근 지수](https://programmers.co.kr/learn/courses/30/lessons/12927)                    | [**java**](https://github.com/jejecrunch/2022/blob/main/jejecrunch/programmers/java/12927.java)              |
 |          | [멀리 뛰기](https://programmers.co.kr/learn/courses/30/lessons/12914)                    | [**java**](https://github.com/jejecrunch/2022/blob/main/jejecrunch/programmers/java/12914.java)              |
 |          | [이중 우선순위 큐](https://programmers.co.kr/learn/courses/30/lessons/42628)             | [**java**](https://github.com/jejecrunch/2022/blob/main/jejecrunch/programmers/java/42628.java)              |
 |          | [2 x n 타일링](https://programmers.co.kr/learn/courses/30/lessons/12900)                 | [**java**](https://github.com/jejecrunch/2022/blob/main/jejecrunch/programmers/java/12900.java)              |
-| 힙       | [더 맵게](https://programmers.co.kr/learn/courses/30/lessons/42626)                      | [**javaO**](https://github.com/jejecrunch/2022/blob/main/jejecrunch/programmers/java/42626.java)             |
+| 힙       | [더 맵게](https://programmers.co.kr/learn/courses/30/lessons/42626)                      | [**java**](https://github.com/jejecrunch/2022/blob/main/jejecrunch/programmers/java/42626.java)              |
 
 </div>
 </details>
