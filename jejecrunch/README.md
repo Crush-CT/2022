@@ -86,7 +86,7 @@
 </details>
 
 <details>
-<summary>백준 단계별로 풀어보기 (190문제)</summary>
+<summary>백준 단계별로 풀어보기 (194문제)</summary>
 <div markdown="1">
 
 | 카테고리 | 제목                                                                                     | 풀이 여부                                                                                                                                                                                                      |
@@ -249,6 +249,10 @@
 |          | [金平糖 (Konpeito)](https://www.acmicpc.net/problem/22015)                               | [**js**](https://github.com/jejecrunch/2022/blob/main/jejecrunch/BAEKJOON/javascript/22015/app.js)                                                                                                             |
 |          | [Arm Coordination](https://www.acmicpc.net/problem/23375)                                | [**js**](https://github.com/jejecrunch/2022/blob/main/jejecrunch/BAEKJOON/javascript/23375/app.js)                                                                                                             |
 |          | [SASA 모형을 만들어보자](https://www.acmicpc.net/problem/23825)                          | [**js**](https://github.com/jejecrunch/2022/blob/main/jejecrunch/BAEKJOON/javascript/23825/app.js)                                                                                                             |
+|          | [帰省 (Homecoming)](https://www.acmicpc.net/problem/24072)                               | [**js**](https://github.com/jejecrunch/2022/blob/main/jejecrunch/BAEKJOON/javascript/24072/app.js)                                                                                                             |
+|          | [計算 (Calculation)](https://www.acmicpc.net/problem/24075)                              | [**js**](https://github.com/jejecrunch/2022/blob/main/jejecrunch/BAEKJOON/javascript/24075/app.js)                                                                                                             |
+|          | [移動 (Moving)](https://www.acmicpc.net/problem/24079)                                   | [**js**](https://github.com/jejecrunch/2022/blob/main/jejecrunch/BAEKJOON/javascript/24079/app.js)                                                                                                             |
+|          | [短針 (Hour Hand)](https://www.acmicpc.net/problem/24083)                                | [**js**](https://github.com/jejecrunch/2022/blob/main/jejecrunch/BAEKJOON/javascript/24083/app.js)                                                                                                             |
 | 정렬     | [Presents](https://www.acmicpc.net/problem/13771)                                        | [**js**](https://github.com/jejecrunch/2022/blob/main/jejecrunch/BAEKJOON/javascript/13771/app.js)                                                                                                             |
 | 정렬     | [일곱 난쟁이](https://www.acmicpc.net/problem/2309)                                      | [**js**](https://github.com/jejecrunch/2022/blob/main/jejecrunch/BAEKJOON/javascript/2309/app.js)                                                                                                              |
 | 정렬     | [コンテスト](https://www.acmicpc.net/problem/5576)                                       | [**js**](https://github.com/jejecrunch/2022/blob/main/jejecrunch/BAEKJOON/javascript/5576/app.js)                                                                                                              |
