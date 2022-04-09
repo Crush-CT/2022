@@ -86,7 +86,7 @@
 </details>
 
 <details>
-<summary>백준 단계별로 풀어보기 (200문제)</summary>
+<summary>백준 단계별로 풀어보기 (201문제)</summary>
 <div markdown="1">
 
 | 카테고리 | 제목                                                                                     | 풀이 여부                                                                                                                                                                                                      |
@@ -260,6 +260,9 @@
 |          | [녹색거탑](https://www.acmicpc.net/problem/24723)                                        | [**js**](https://github.com/jejecrunch/2022/blob/main/jejecrunch/BAEKJOON/javascript/24723/app.js)                                                                                                             |
 |          | [Betting](https://www.acmicpc.net/problem/24751)                                         |                                                                                                                                                                                                                |
 |          | [Counting Antibodies](https://www.acmicpc.net/problem/24860)                             |                                                                                                                                                                                                                |
+|          | [분산처리](https://www.acmicpc.net/problem/1009)                                         |                                                                                                                                                                                                                |
+|          | [8진수 2진수](https://www.acmicpc.net/problem/1212)                                      | [**js**](https://github.com/jejecrunch/2022/blob/main/jejecrunch/BAEKJOON/javascript/1212/app.js)                                                                                                              |
+|          | [부호](https://www.acmicpc.net/problem/1247)                                             |                                                                                                                                                                                                                |
 |          | [자동완성](https://www.acmicpc.net/problem/24883)                                        | [**js**](https://github.com/jejecrunch/2022/blob/main/jejecrunch/BAEKJOON/javascript/24883/app.js)                                                                                                             |
 | 정렬     | [Presents](https://www.acmicpc.net/problem/13771)                                        | [**js**](https://github.com/jejecrunch/2022/blob/main/jejecrunch/BAEKJOON/javascript/13771/app.js)                                                                                                             |
 | 정렬     | [일곱 난쟁이](https://www.acmicpc.net/problem/2309)                                      | [**js**](https://github.com/jejecrunch/2022/blob/main/jejecrunch/BAEKJOON/javascript/2309/app.js)                                                                                                              |
