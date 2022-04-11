@@ -20,7 +20,7 @@
 #
 
 <details>
-<summary>프로그래머스 연습 문제 (56문제)</summary>
+<summary>프로그래머스 연습 문제 (58문제)</summary>
 <div markdown="1">
 
 | 카테고리 | 제목                                                                                     | 풀이 여부                                                                                                    |
@@ -72,9 +72,11 @@
 |          | [없는 숫자 더하기](https://programmers.co.kr/learn/courses/30/lessons/86051)             | [**js**](https://github.com/jejecrunch/2022/blob/main/jejecrunch/programmers/javascript/86051.js)            |
 |          | [로또의 최고 순위와 최저 순위](https://programmers.co.kr/learn/courses/30/lessons/77484) | [**js**](https://github.com/jejecrunch/2022/blob/main/jejecrunch/programmers/javascript/77484.js)            |
 | 해시     | [위장](https://programmers.co.kr/learn/courses/30/lessons/42578)                         | [**js**](https://github.com/jejecrunch/2022/blob/main/jejecrunch/programmers/javascript/42578.js)            |
+| 완전탐색 | [소수찾기](https://programmers.co.kr/learn/courses/30/lessons/42839)                     | [**js**](https://github.com/jejecrunch/2022/blob/main/jejecrunch/programmers/javascript/42839.js)            |
 | 탐욕법   | [조이스틱](https://programmers.co.kr/learn/courses/30/lessons/42860)                     | [**js**](https://github.com/jejecrunch/2022/blob/main/jejecrunch/programmers/javascript/42860.js)            |
 | 정렬     | [가장 큰 수](https://programmers.co.kr/learn/courses/30/lessons/42746)                   | [**js**](https://github.com/jejecrunch/2022/blob/main/jejecrunch/programmers/javascript/42746.js)            |
 | 정렬     | [H-Index](https://programmers.co.kr/learn/courses/30/lessons/42747)                      | [**js**](https://github.com/jejecrunch/2022/blob/main/jejecrunch/programmers/javascript/42747.js)            |
+| 완전탐색 | [카펫](https://programmers.co.kr/learn/courses/30/lessons/42842)                         | [**js**](https://github.com/jejecrunch/2022/blob/main/jejecrunch/programmers/javascript/42842.js)            |
 |          | [줄 서는 방법](https://programmers.co.kr/learn/courses/30/lessons/12936)                 | [**java**](https://github.com/jejecrunch/2022/blob/main/jejecrunch/programmers/java/12936.java)              |
 |          | [야근 지수](https://programmers.co.kr/learn/courses/30/lessons/12927)                    | [**java**](https://github.com/jejecrunch/2022/blob/main/jejecrunch/programmers/java/12927.java)              |
 |          | [멀리 뛰기](https://programmers.co.kr/learn/courses/30/lessons/12914)                    | [**java**](https://github.com/jejecrunch/2022/blob/main/jejecrunch/programmers/java/12914.java)              |
@@ -86,7 +88,7 @@
 </details>
 
 <details>
-<summary>백준 단계별로 풀어보기 (204문제)</summary>
+<summary>백준 단계별로 풀어보기 (206문제)</summary>
 <div markdown="1">
 
 | 카테고리 | 제목                                                                                     | 풀이 여부                                                                                                                                                                                                      |
@@ -263,8 +265,9 @@
 |          | [Counting Antibodies](https://www.acmicpc.net/problem/24860)                             |                                                                                                                                                                                                                |
 |          | [분산처리](https://www.acmicpc.net/problem/1009)                                         | [**js**](https://github.com/jejecrunch/2022/blob/main/jejecrunch/BAEKJOON/javascript/1009/app.js)                                                                                                              |
 |          | [8진수 2진수](https://www.acmicpc.net/problem/1212)                                      | [**js**](https://github.com/jejecrunch/2022/blob/main/jejecrunch/BAEKJOON/javascript/1212/app.js)                                                                                                              |
-|          | [부호](https://www.acmicpc.net/problem/1247)                                             |                                                                                                                                                                                                                |
+|          | [부호](https://www.acmicpc.net/problem/1247)                                             | [**js**](https://github.com/jejecrunch/2022/blob/main/jejecrunch/BAEKJOON/javascript/1247/app.js)                                                                                                              |
 |          | [핸드폰 요금](https://www.acmicpc.net/problem/1267)                                      | [**js**](https://github.com/jejecrunch/2022/blob/main/jejecrunch/BAEKJOON/javascript/1267/app.js)                                                                                                              |
+|          | [집 주소](https://www.acmicpc.net/problem/1284)                                          | [**js**](https://github.com/jejecrunch/2022/blob/main/jejecrunch/BAEKJOON/javascript/1284/app.js)                                                                                                              |
 |          | [자동완성](https://www.acmicpc.net/problem/24883)                                        | [**js**](https://github.com/jejecrunch/2022/blob/main/jejecrunch/BAEKJOON/javascript/24883/app.js)                                                                                                             |
 | 정렬     | [Presents](https://www.acmicpc.net/problem/13771)                                        | [**js**](https://github.com/jejecrunch/2022/blob/main/jejecrunch/BAEKJOON/javascript/13771/app.js)                                                                                                             |
 | 정렬     | [일곱 난쟁이](https://www.acmicpc.net/problem/2309)                                      | [**js**](https://github.com/jejecrunch/2022/blob/main/jejecrunch/BAEKJOON/javascript/2309/app.js)                                                                                                              |
