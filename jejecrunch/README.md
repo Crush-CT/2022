@@ -20,7 +20,7 @@
 #
 
 <details>
-<summary>프로그래머스 연습 문제 (58문제)</summary>
+<summary>프로그래머스 연습 문제 (60문제)</summary>
 <div markdown="1">
 
 | 카테고리 | 제목                                                                                     | 풀이 여부                                                                                                                                                                                          |
@@ -75,6 +75,8 @@
 | 완전탐색 | [소수찾기](https://programmers.co.kr/learn/courses/30/lessons/42839)                     | [**js**](https://github.com/jejecrunch/2022/blob/main/jejecrunch/programmers/javascript/42839.js)                                                                                                  |
 | 탐욕법   | [조이스틱](https://programmers.co.kr/learn/courses/30/lessons/42860)                     | [**js**](https://github.com/jejecrunch/2022/blob/main/jejecrunch/programmers/javascript/42860.js)                                                                                                  |
 | 정렬     | [가장 큰 수](https://programmers.co.kr/learn/courses/30/lessons/42746)                   | [**js**](https://github.com/jejecrunch/2022/blob/main/jejecrunch/programmers/javascript/42746.js)                                                                                                  |
+| 탐욕법   | [큰 수 만들기](https://programmers.co.kr/learn/courses/30/lessons/42883)                 | [**js**](https://github.com/jejecrunch/2022/blob/main/jejecrunch/programmers/javascript/42883.js)                                                                                                  |
+| 탐욕법   | [구명보트](https://programmers.co.kr/learn/courses/30/lessons/42885)                     | [**js**](https://github.com/jejecrunch/2022/blob/main/jejecrunch/programmers/javascript/42885.js)                                                                                                  |
 | 정렬     | [H-Index](https://programmers.co.kr/learn/courses/30/lessons/42747)                      | [**js**](https://github.com/jejecrunch/2022/blob/main/jejecrunch/programmers/javascript/42747.js)                                                                                                  |
 | 완전탐색 | [카펫](https://programmers.co.kr/learn/courses/30/lessons/42842)                         | [**js**](https://github.com/jejecrunch/2022/blob/main/jejecrunch/programmers/javascript/42842.js)                                                                                                  |
 |          | [줄 서는 방법](https://programmers.co.kr/learn/courses/30/lessons/12936)                 | [**java**](https://github.com/jejecrunch/2022/blob/main/jejecrunch/programmers/java/12936.java)                                                                                                    |
