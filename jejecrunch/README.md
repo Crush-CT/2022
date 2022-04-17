@@ -20,7 +20,7 @@
 #
 
 <details>
-<summary>프로그래머스 연습 문제 (60문제)</summary>
+<summary>프로그래머스 연습 문제 (62문제)</summary>
 <div markdown="1">
 
 | 카테고리 | 제목                                                                                     | 풀이 여부                                                                                                                                                                                          |
@@ -85,12 +85,14 @@
 | 힙       | [이중 우선순위 큐](https://programmers.co.kr/learn/courses/30/lessons/42628)             | [**java**](https://github.com/jejecrunch/2022/blob/main/jejecrunch/programmers/java/42628.java), [**js**](https://github.com/jejecrunch/2022/blob/main/jejecrunch/programmers/javascript/42628.js) |
 |          | [2 x n 타일링](https://programmers.co.kr/learn/courses/30/lessons/12900)                 | [**java**](https://github.com/jejecrunch/2022/blob/main/jejecrunch/programmers/java/12900.java)                                                                                                    |
 | 힙       | [더 맵게](https://programmers.co.kr/learn/courses/30/lessons/42626)                      | [**java**](https://github.com/jejecrunch/2022/blob/main/jejecrunch/programmers/java/42626.java)                                                                                                    |
+| 스택, 큐 | [기능개발](https://programmers.co.kr/learn/courses/30/lessons/42587)                     | [**js**](https://github.com/jejecrunch/2022/blob/main/jejecrunch/programmers/javascript/42587.js)                                                                                                  |
+| 스택, 큐 | [프린터](https://programmers.co.kr/learn/courses/30/lessons/42588)                       | [**js**](https://github.com/jejecrunch/2022/blob/main/jejecrunch/programmers/javascript/42588.js)                                                                                                  |
 
 </div>
 </details>
 
 <details>
-<summary>백준 단계별로 풀어보기 (215문제)</summary>
+<summary>백준 단계별로 풀어보기 (219문제)</summary>
 <div markdown="1">
 
 | 카테고리 | 제목                                                                                     | 풀이 여부                                                                                                                                                                                                      |
@@ -275,13 +277,15 @@
 |          | [생장점](https://www.acmicpc.net/problem/1703)                                           |                                                                                                                                                                                                                |
 |          | [암호제작](https://www.acmicpc.net/problem/1837)                                         |                                                                                                                                                                                                                |
 |          | [오각형, 오각형, 오각형...](https://www.acmicpc.net/problem/1964)                        | [**js**](https://github.com/jejecrunch/2022/blob/main/jejecrunch/BAEKJOON/javascript/1964/app.js)                                                                                                              |
-|          | [플러그](https://www.acmicpc.net/problem/2010)                                           |                                                                                                                                                                                                                |
+|          | [플러그](https://www.acmicpc.net/problem/2010)                                           | [**js**](https://github.com/jejecrunch/2022/blob/main/jejecrunch/BAEKJOON/javascript/2010/app.js)                                                                                                              |
 |          | [좋은 암호](https://www.acmicpc.net/problem/2061)                                        | [**js**](https://github.com/jejecrunch/2022/blob/main/jejecrunch/BAEKJOON/javascript/2061/app.js)                                                                                                              |
 |          | [초콜릿 자르기](https://www.acmicpc.net/problem/2163)                                    | [**js**](https://github.com/jejecrunch/2022/blob/main/jejecrunch/BAEKJOON/javascript/2163/app.js)                                                                                                              |
-|          | [시그마](https://www.acmicpc.net/problem/2355)                                           |                                                                                                                                                                                                                |
+|          | [시그마](https://www.acmicpc.net/problem/2355)                                           | [**js**](https://github.com/jejecrunch/2022/blob/main/jejecrunch/BAEKJOON/javascript/2355/app.js)                                                                                                              |
 |          | [별 찍기 - 7](https://www.acmicpc.net/problem/2444)                                      | [**js**](https://github.com/jejecrunch/2022/blob/main/jejecrunch/BAEKJOON/javascript/2444/app.js)                                                                                                              |
 |          | [별 찍기 - 8](https://www.acmicpc.net/problem/2445)                                      | [**js**](https://github.com/jejecrunch/2022/blob/main/jejecrunch/BAEKJOON/javascript/2445/app.js)                                                                                                              |
 |          | [별 찍기 - 9](https://www.acmicpc.net/problem/2446)                                      | [**js**](https://github.com/jejecrunch/2022/blob/main/jejecrunch/BAEKJOON/javascript/2446/app.js)                                                                                                              |
+|          | [별 찍기 - 12](https://www.acmicpc.net/problem/2522)                                     | [**js**](https://github.com/jejecrunch/2022/blob/main/jejecrunch/BAEKJOON/javascript/2522/app.js)                                                                                                              |
+|          | [별 찍기 - 13](https://www.acmicpc.net/problem/2523)                                     | [**js**](https://github.com/jejecrunch/2022/blob/main/jejecrunch/BAEKJOON/javascript/2523/app.js)                                                                                                              |
 |          | [소음](https://www.acmicpc.net/problem/2935)                                             | [**js**](https://github.com/jejecrunch/2022/blob/main/jejecrunch/BAEKJOON/javascript/2935/app.js)                                                                                                              |
 |          | [경고](https://www.acmicpc.net/problem/3029)                                             | [**js**](https://github.com/jejecrunch/2022/blob/main/jejecrunch/BAEKJOON/javascript/3029/app.js)                                                                                                              |
 |          | [자동완성](https://www.acmicpc.net/problem/24883)                                        | [**js**](https://github.com/jejecrunch/2022/blob/main/jejecrunch/BAEKJOON/javascript/24883/app.js)                                                                                                             |
