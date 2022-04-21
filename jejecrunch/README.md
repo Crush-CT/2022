@@ -93,7 +93,7 @@
 </details>
 
 <details>
-<summary>백준 단계별로 풀어보기 (229문제)</summary>
+<summary>백준 단계별로 풀어보기 (231문제)</summary>
 <div markdown="1">
 
 | 카테고리 | 제목                                                                                     | 풀이 여부                                                                                                                                                                                                      |
@@ -294,7 +294,9 @@
 |          | [약수 구하기](https://www.acmicpc.net/problem/2501)                                      | [**js**](https://github.com/jejecrunch/2022/blob/main/jejecrunch/BAEKJOON/javascript/2501/app.js)                                                                                                              |
 |          | [점수계산](https://www.acmicpc.net/problem/2506)                                         | [**js**](https://github.com/jejecrunch/2022/blob/main/jejecrunch/BAEKJOON/javascript/2506/app.js)                                                                                                              |
 |          | [카드놀이](https://www.acmicpc.net/problem/2511)                                         |                                                                                                                                                                                                                |
+|          | [사탕 선생 고창영](https://www.acmicpc.net/problem/2547)                                 | [**js**](https://github.com/jejecrunch/2022/blob/main/jejecrunch/BAEKJOON/javascript/2547/app.js)                                                                                                              |
 |          | [최댓값](https://www.acmicpc.net/problem/2566)                                           | [**js**](https://github.com/jejecrunch/2022/blob/main/jejecrunch/BAEKJOON/javascript/2566/app.js)                                                                                                              |
+|          | [홀수](https://www.acmicpc.net/problem/2576)                                             | [**js**](https://github.com/jejecrunch/2022/blob/main/jejecrunch/BAEKJOON/javascript/2576/app.js)                                                                                                              |
 |          | [소음](https://www.acmicpc.net/problem/2935)                                             | [**js**](https://github.com/jejecrunch/2022/blob/main/jejecrunch/BAEKJOON/javascript/2935/app.js)                                                                                                              |
 |          | [경고](https://www.acmicpc.net/problem/3029)                                             | [**js**](https://github.com/jejecrunch/2022/blob/main/jejecrunch/BAEKJOON/javascript/3029/app.js)                                                                                                              |
 |          | [자동완성](https://www.acmicpc.net/problem/24883)                                        | [**js**](https://github.com/jejecrunch/2022/blob/main/jejecrunch/BAEKJOON/javascript/24883/app.js)                                                                                                             |
