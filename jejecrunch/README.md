@@ -20,7 +20,7 @@
 #
 
 <details>
-<summary>프로그래머스 연습 문제 (63문제)</summary>
+<summary>프로그래머스 연습 문제 (64문제)</summary>
 <div markdown="1">
 
 | 카테고리 | 제목                                                                                     | 풀이 여부                                                                                                                                                                                          |
@@ -85,6 +85,7 @@
 | 힙       | [이중 우선순위 큐](https://programmers.co.kr/learn/courses/30/lessons/42628)             | [**java**](https://github.com/jejecrunch/2022/blob/main/jejecrunch/programmers/java/42628.java), [**js**](https://github.com/jejecrunch/2022/blob/main/jejecrunch/programmers/javascript/42628.js) |
 |          | [2 x n 타일링](https://programmers.co.kr/learn/courses/30/lessons/12900)                 | [**java**](https://github.com/jejecrunch/2022/blob/main/jejecrunch/programmers/java/12900.java)                                                                                                    |
 | 힙       | [더 맵게](https://programmers.co.kr/learn/courses/30/lessons/42626)                      | [**java**](https://github.com/jejecrunch/2022/blob/main/jejecrunch/programmers/java/42626.java)                                                                                                    |
+| 힙       | [디스크 컨트롤러](https://programmers.co.kr/learn/courses/30/lessons/42627)              | [**java**](https://github.com/jejecrunch/2022/blob/main/jejecrunch/programmers/java/42627.java)                                                                                                    |
 | 스택, 큐 | [기능개발](https://programmers.co.kr/learn/courses/30/lessons/42587)                     | [**js**](https://github.com/jejecrunch/2022/blob/main/jejecrunch/programmers/javascript/42587.js)                                                                                                  |
 | 스택, 큐 | [프린터](https://programmers.co.kr/learn/courses/30/lessons/42588)                       | [**js**](https://github.com/jejecrunch/2022/blob/main/jejecrunch/programmers/javascript/42588.js)                                                                                                  |
 | DFS, BFS | [타겟넘버](https://programmers.co.kr/learn/courses/30/lessons/43165)                     | [**js**](https://github.com/jejecrunch/2022/blob/main/jejecrunch/programmers/javascript/43165.js)                                                                                                  |
@@ -93,7 +94,7 @@
 </details>
 
 <details>
-<summary>백준 단계별로 풀어보기 (231문제)</summary>
+<summary>백준 단계별로 풀어보기 (234문제)</summary>
 <div markdown="1">
 
 | 카테고리 | 제목                                                                                     | 풀이 여부                                                                                                                                                                                                      |
@@ -274,7 +275,7 @@
 |          | [핸드폰 요금](https://www.acmicpc.net/problem/1267)                                      | [**js**](https://github.com/jejecrunch/2022/blob/main/jejecrunch/BAEKJOON/javascript/1267/app.js)                                                                                                              |
 |          | [집 주소](https://www.acmicpc.net/problem/1284)                                          | [**js**](https://github.com/jejecrunch/2022/blob/main/jejecrunch/BAEKJOON/javascript/1284/app.js)                                                                                                              |
 |          | [공](https://www.acmicpc.net/problem/1547)                                               | [**js**](https://github.com/jejecrunch/2022/blob/main/jejecrunch/BAEKJOON/javascript/1547/app.js)                                                                                                              |
-|          | [꼬리를 무는 숫자 나열](https://www.acmicpc.net/problem/1598)                            |                                                                                                                                                                                                                |
+|          | [꼬리를 무는 숫자 나열](https://www.acmicpc.net/problem/1598)                            | [**js**](https://github.com/jejecrunch/2022/blob/main/jejecrunch/BAEKJOON/javascript/1598/app.js)                                                                                                              |
 |          | [생장점](https://www.acmicpc.net/problem/1703)                                           |                                                                                                                                                                                                                |
 |          | [암호제작](https://www.acmicpc.net/problem/1837)                                         | [**js**](https://github.com/jejecrunch/2022/blob/main/jejecrunch/BAEKJOON/javascript/1837/app.js)                                                                                                              |
 |          | [오각형, 오각형, 오각형...](https://www.acmicpc.net/problem/1964)                        | [**js**](https://github.com/jejecrunch/2022/blob/main/jejecrunch/BAEKJOON/javascript/1964/app.js)                                                                                                              |
@@ -293,10 +294,11 @@
 |          | [윷놀이](https://www.acmicpc.net/problem/2490)                                           | [**js**](https://github.com/jejecrunch/2022/blob/main/jejecrunch/BAEKJOON/javascript/2490/app.js)                                                                                                              |
 |          | [약수 구하기](https://www.acmicpc.net/problem/2501)                                      | [**js**](https://github.com/jejecrunch/2022/blob/main/jejecrunch/BAEKJOON/javascript/2501/app.js)                                                                                                              |
 |          | [점수계산](https://www.acmicpc.net/problem/2506)                                         | [**js**](https://github.com/jejecrunch/2022/blob/main/jejecrunch/BAEKJOON/javascript/2506/app.js)                                                                                                              |
-|          | [카드놀이](https://www.acmicpc.net/problem/2511)                                         |                                                                                                                                                                                                                |
+|          | [카드놀이](https://www.acmicpc.net/problem/2511)                                         | [**js**](https://github.com/jejecrunch/2022/blob/main/jejecrunch/BAEKJOON/javascript/25251106/app.js)                                                                                                          |
 |          | [사탕 선생 고창영](https://www.acmicpc.net/problem/2547)                                 | [**js**](https://github.com/jejecrunch/2022/blob/main/jejecrunch/BAEKJOON/javascript/2547/app.js)                                                                                                              |
 |          | [최댓값](https://www.acmicpc.net/problem/2566)                                           | [**js**](https://github.com/jejecrunch/2022/blob/main/jejecrunch/BAEKJOON/javascript/2566/app.js)                                                                                                              |
 |          | [홀수](https://www.acmicpc.net/problem/2576)                                             | [**js**](https://github.com/jejecrunch/2022/blob/main/jejecrunch/BAEKJOON/javascript/2576/app.js)                                                                                                              |
+|          | [세탁소 사장 동혁](https://www.acmicpc.net/problem/2720)                                 | [**js**](https://github.com/jejecrunch/2022/blob/main/jejecrunch/BAEKJOON/javascript/2720/app.js)                                                                                                              |
 |          | [소음](https://www.acmicpc.net/problem/2935)                                             | [**js**](https://github.com/jejecrunch/2022/blob/main/jejecrunch/BAEKJOON/javascript/2935/app.js)                                                                                                              |
 |          | [경고](https://www.acmicpc.net/problem/3029)                                             | [**js**](https://github.com/jejecrunch/2022/blob/main/jejecrunch/BAEKJOON/javascript/3029/app.js)                                                                                                              |
 |          | [자동완성](https://www.acmicpc.net/problem/24883)                                        | [**js**](https://github.com/jejecrunch/2022/blob/main/jejecrunch/BAEKJOON/javascript/24883/app.js)                                                                                                             |
