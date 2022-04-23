@@ -20,7 +20,7 @@
 #
 
 <details>
-<summary>프로그래머스 연습 문제 (64문제)</summary>
+<summary>프로그래머스 연습 문제 (70문제)</summary>
 <div markdown="1">
 
 | 카테고리 | 제목                                                                                     | 풀이 여부                                                                                                                                                                                          |
@@ -71,6 +71,12 @@
 |          | [음양 더하기](https://programmers.co.kr/learn/courses/30/lessons/76501)                  | [**js**](https://github.com/jejecrunch/2022/blob/main/jejecrunch/programmers/javascript/76501.js)                                                                                                  |
 |          | [없는 숫자 더하기](https://programmers.co.kr/learn/courses/30/lessons/86051)             | [**js**](https://github.com/jejecrunch/2022/blob/main/jejecrunch/programmers/javascript/86051.js)                                                                                                  |
 |          | [로또의 최고 순위와 최저 순위](https://programmers.co.kr/learn/courses/30/lessons/77484) | [**js**](https://github.com/jejecrunch/2022/blob/main/jejecrunch/programmers/javascript/77484.js)                                                                                                  |
+|          | [124 나라의 숫자](https://programmers.co.kr/learn/courses/30/lessons/12899)              | [**js**](https://github.com/jejecrunch/2022/blob/main/jejecrunch/programmers/javascript/12899.js)                                                                                                  |
+|          | [올바른 괄호](https://programmers.co.kr/learn/courses/30/lessons/12909)                  | [**js**](https://github.com/jejecrunch/2022/blob/main/jejecrunch/programmers/javascript/12909.js)                                                                                                  |
+|          | [숫자의 표현](https://programmers.co.kr/learn/courses/30/lessons/12924)                  | [**js**](https://github.com/jejecrunch/2022/blob/main/jejecrunch/programmers/javascript/12924.js)                                                                                                  |
+|          | [최댓값과 최솟값](https://programmers.co.kr/learn/courses/30/lessons/12939)              | [**js**](https://github.com/jejecrunch/2022/blob/main/jejecrunch/programmers/javascript/12939.js)                                                                                                  |
+|          | [최솟값 만들기](https://programmers.co.kr/learn/courses/30/lessons/12941)                | [**js**](https://github.com/jejecrunch/2022/blob/main/jejecrunch/programmers/javascript/12941.js)                                                                                                  |
+|          | [피보나치 수](https://programmers.co.kr/learn/courses/30/lessons/12899)                  | [**js**](https://github.com/jejecrunch/2022/blob/main/jejecrunch/programmers/javascript/12899.js)                                                                                                  |
 | 해시     | [위장](https://programmers.co.kr/learn/courses/30/lessons/42578)                         | [**js**](https://github.com/jejecrunch/2022/blob/main/jejecrunch/programmers/javascript/42578.js)                                                                                                  |
 | 완전탐색 | [소수찾기](https://programmers.co.kr/learn/courses/30/lessons/42839)                     | [**js**](https://github.com/jejecrunch/2022/blob/main/jejecrunch/programmers/javascript/42839.js)                                                                                                  |
 | 탐욕법   | [조이스틱](https://programmers.co.kr/learn/courses/30/lessons/42860)                     | [**js**](https://github.com/jejecrunch/2022/blob/main/jejecrunch/programmers/javascript/42860.js)                                                                                                  |
@@ -94,7 +100,7 @@
 </details>
 
 <details>
-<summary>백준 단계별로 풀어보기 (234문제)</summary>
+<summary>백준 단계별로 풀어보기 (235문제)</summary>
 <div markdown="1">
 
 | 카테고리 | 제목                                                                                     | 풀이 여부                                                                                                                                                                                                      |
@@ -330,6 +336,7 @@
 | 정렬     | [수 정렬하기2](https://www.acmicpc.net/problem/2751)                                     | [**js**](https://github.com/jejecrunch/2022/blob/main/jejecrunch/BAEKJOON/javascript/2751/app.js)                                                                                                              |
 | 정렬     | [소드인사이트](https://www.acmicpc.net/problem/1427)                                     | [**js**](https://github.com/jejecrunch/2022/blob/main/jejecrunch/BAEKJOON/javascript/1427/app.js)                                                                                                              |
 | 정렬     | [단어 정렬](https://www.acmicpc.net/problem/1181)                                        | [**js**](https://github.com/jejecrunch/2022/blob/main/jejecrunch/BAEKJOON/javascript/1181/app.js)                                                                                                              |
+| 정렬     | [성적 통계](https://www.acmicpc.net/problem/5800)                                        | [**js**](https://github.com/jejecrunch/2022/blob/main/jejecrunch/BAEKJOON/javascript/5800/app.js)                                                                                                              |
 | 정렬     | [나이순 정렬](https://www.acmicpc.net/problem/10814)                                     | [**js**](https://github.com/jejecrunch/2022/blob/main/jejecrunch/BAEKJOON/javascript/10814/app.js)                                                                                                             |
 | 정렬     | [수 정렬하기 3](https://www.acmicpc.net/problem/10989)                                   | [**js**](https://github.com/jejecrunch/2022/blob/main/jejecrunch/BAEKJOON/javascript/10989/app.js)                                                                                                             |
 | 정렬     | [CESTA](https://www.acmicpc.net/problem/10610)                                           |                                                                                                                                                                                                                |
