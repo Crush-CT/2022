@@ -114,7 +114,7 @@
 </details>
 
 <details>
-<summary>백준 단계별로 풀어보기 (238문제)</summary>
+<summary>백준 단계별로 풀어보기 (242문제)</summary>
 <div markdown="1">
 
 | 카테고리 | 제목                                                                                     | 풀이 여부                                                                                                                                                                                                      |
@@ -320,6 +320,12 @@
 |          | [홀수](https://www.acmicpc.net/problem/2576)                                             | [**js**](https://github.com/jejecrunch/2022/blob/main/jejecrunch/BAEKJOON/javascript/2576/app.js)                                                                                                              |
 |          | [세탁소 사장 동혁](https://www.acmicpc.net/problem/2720)                                 | [**js**](https://github.com/jejecrunch/2022/blob/main/jejecrunch/BAEKJOON/javascript/2720/app.js)                                                                                                              |
 |          | [삼각수의 합](https://www.acmicpc.net/problem/2721)                                      | [**js**](https://github.com/jejecrunch/2022/blob/main/jejecrunch/BAEKJOON/javascript/2721/app.js)                                                                                                              |
+|          | [자전거 속도](https://www.acmicpc.net/problem/2765)                                      | [**js**](https://github.com/jejecrunch/2022/blob/main/jejecrunch/BAEKJOON/javascript/2765/app.js)                                                                                                              |
+|          | [삼각 김밥](https://www.acmicpc.net/problem/2783)                                        |                                                                                                                                                                                                                |
+|          | [이게 분수?](https://www.acmicpc.net/problem/2863)                                       | [**js**](https://github.com/jejecrunch/2022/blob/main/jejecrunch/BAEKJOON/javascript/2863/app.js)                                                                                                              |
+|          | [대회 or 인턴](https://www.acmicpc.net/problem/2875)                                     |                                                                                                                                                                                                                |
+|          | [중앙 이동 알고리즘](https://www.acmicpc.net/problem/2903)                               | [**js**](https://github.com/jejecrunch/2022/blob/main/jejecrunch/BAEKJOON/javascript/29032721/app.js)                                                                                                          |
+|          | [도미노](https://www.acmicpc.net/problem/2921)                                           | [**js**](https://github.com/jejecrunch/2022/blob/main/jejecrunch/BAEKJOON/javascript/2921/app.js)                                                                                                              |
 |          | [소음](https://www.acmicpc.net/problem/2935)                                             | [**js**](https://github.com/jejecrunch/2022/blob/main/jejecrunch/BAEKJOON/javascript/2935/app.js)                                                                                                              |
 |          | [경고](https://www.acmicpc.net/problem/3029)                                             | [**js**](https://github.com/jejecrunch/2022/blob/main/jejecrunch/BAEKJOON/javascript/3029/app.js)                                                                                                              |
 |          | [자동완성](https://www.acmicpc.net/problem/24883)                                        | [**js**](https://github.com/jejecrunch/2022/blob/main/jejecrunch/BAEKJOON/javascript/24883/app.js)                                                                                                             |
