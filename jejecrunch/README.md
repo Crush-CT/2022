@@ -11,13 +11,15 @@
 | 1    | [크레인 인형뽑기 게임](https://programmers.co.kr/learn/courses/30/lessons/64061) | 2018     | [**js**](https://github.com/jejecrunch/2022/blob/main/jejecrunch/programmers/javascript/64061.js) |
 | 1    | [[1차] 다트 게임](https://programmers.co.kr/learn/courses/30/lessons/17682)      | 2018     | [**js**](https://github.com/jejecrunch/2022/blob/main/jejecrunch/programmers/javascript/17682.js) |
 | 1    | [키패드 누르기](https://programmers.co.kr/learn/courses/30/lessons/67256)        | 2020     | [**js**](https://github.com/jejecrunch/2022/blob/main/jejecrunch/programmers/javascript/67256.js) |
+| 1    | [신규 아이디 추천](https://programmers.co.kr/learn/courses/30/lessons/72410)     | 2021     | [**js**](https://github.com/jejecrunch/2022/blob/main/jejecrunch/programmers/javascript/72410.js) |
+| 1    | [숫자 문자열과 영단어](https://programmers.co.kr/learn/courses/30/lessons/81301) | 2021     | [**js**](https://github.com/jejecrunch/2022/blob/main/jejecrunch/programmers/javascript/81301.js) |
 | 2    | [[3차] 방금그곡](https://programmers.co.kr/learn/courses/30/lessons/17684)       | 2018     | [**java**](https://github.com/jejecrunch/2022/blob/main/jejecrunch/programmers/java/17684.java)   |
 | 2    | [[1차] 캐시](https://programmers.co.kr/learn/courses/30/lessons/17680)           | 2018     | [**java**](https://github.com/jejecrunch/2022/blob/main/jejecrunch/programmers/java/17680.java)   |
 | 2    | [[1차] 프렌즈4블록](https://programmers.co.kr/learn/courses/30/lessons/17684)    | 2018     |                                                                                                   |
 | 2    | [후보키](https://programmers.co.kr/learn/courses/30/lessons/17684)               | 2019     |                                                                                                   |
 | 2    | [튜플](https://programmers.co.kr/learn/courses/30/lessons/17684)                 | 2019     |                                                                                                   |
 | 2    | [수식 최대화](https://programmers.co.kr/learn/courses/30/lessons/17684)          | 2020     |                                                                                                   |
-|      |                                                                                  |          | **5**                                                                                             |
+|      |                                                                                  |          | **7**                                                                                             |
 
 #
 
@@ -116,7 +118,7 @@
 </details>
 
 <details>
-<summary>백준 단계별로 풀어보기 (249문제)</summary>
+<summary>백준 단계별로 풀어보기 (253문제)</summary>
 <div markdown="1">
 
 | 카테고리 | 제목                                                                                     | 풀이 여부                                                                                                                                                                                                      |
@@ -333,11 +335,14 @@
 |          | [거북이](https://www.acmicpc.net/problem/2959)                                           | [**js**](https://github.com/jejecrunch/2022/blob/main/jejecrunch/BAEKJOON/javascript/2959/app.js)                                                                                                              |
 |          | [캥거루 세마리](https://www.acmicpc.net/problem/2965)                                    | [**js**](https://github.com/jejecrunch/2022/blob/main/jejecrunch/BAEKJOON/javascript/2965/app.js)                                                                                                              |
 |          | [Transactions](https://www.acmicpc.net/problem/2975)                                     |                                                                                                                                                                                                                |
-|          | [세 수](https://www.acmicpc.net/problem/2985)                                            |                                                                                                                                                                                                                |
+|          | [세 수](https://www.acmicpc.net/problem/2985)                                            | [**js**](https://github.com/jejecrunch/2022/blob/main/jejecrunch/BAEKJOON/javascript/2985/app.js)                                                                                                              |
 |          | [사나운 개](https://www.acmicpc.net/problem/2991)                                        |                                                                                                                                                                                                                |
 |          | [네 번째 수](https://www.acmicpc.net/problem/2997)                                       | [**js**](https://github.com/jejecrunch/2022/blob/main/jejecrunch/BAEKJOON/javascript/2997/app.js)                                                                                                              |
 |          | [경고](https://www.acmicpc.net/problem/3029)                                             | [**js**](https://github.com/jejecrunch/2022/blob/main/jejecrunch/BAEKJOON/javascript/3029/app.js)                                                                                                              |
 |          | [앵그리 창영](https://www.acmicpc.net/problem/3034)                                      | [**js**](https://github.com/jejecrunch/2022/blob/main/jejecrunch/BAEKJOON/javascript/3034/app.js)                                                                                                              |
+|          | [짝수를 찾아라](https://www.acmicpc.net/problem/3058)                                    | [**js**](https://github.com/jejecrunch/2022/blob/main/jejecrunch/BAEKJOON/javascript/3058/app.js)                                                                                                              |
+|          | [이진수](https://www.acmicpc.net/problem/3460)                                           | [**js**](https://github.com/jejecrunch/2022/blob/main/jejecrunch/BAEKJOON/javascript/3460/app.js)                                                                                                              |
+|          | [크냐?](https://www.acmicpc.net/problem/4101)                                            | [**js**](https://github.com/jejecrunch/2022/blob/main/jejecrunch/BAEKJOON/javascript/4101/app.js)                                                                                                              |
 |          | [자동완성](https://www.acmicpc.net/problem/24883)                                        | [**js**](https://github.com/jejecrunch/2022/blob/main/jejecrunch/BAEKJOON/javascript/24883/app.js)                                                                                                             |
 | 정렬     | [Presents](https://www.acmicpc.net/problem/13771)                                        | [**js**](https://github.com/jejecrunch/2022/blob/main/jejecrunch/BAEKJOON/javascript/13771/app.js)                                                                                                             |
 | 정렬     | [일곱 난쟁이](https://www.acmicpc.net/problem/2309)                                      | [**js**](https://github.com/jejecrunch/2022/blob/main/jejecrunch/BAEKJOON/javascript/2309/app.js)                                                                                                              |
