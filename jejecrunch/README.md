@@ -119,7 +119,7 @@
 </details>
 
 <details>
-<summary>백준 단계별로 풀어보기 (266문제)</summary>
+<summary>백준 단계별로 풀어보기 (281문제)</summary>
 <div markdown="1">
 
 | 카테고리          | 제목                                                                                     | 풀이 여부                                                                                                                                                                                                      |
@@ -354,6 +354,13 @@
 |                   | [삼각형과 세 변](https://www.acmicpc.net/problem/5073)                                   | [**js**](https://github.com/jejecrunch/2022/blob/main/jejecrunch/BAEKJOON/javascript/5073/app.js)                                                                                                              |
 |                   | [쌍의 합](https://www.acmicpc.net/problem/5217)                                          | [**js**](https://github.com/jejecrunch/2022/blob/main/jejecrunch/BAEKJOON/javascript/5217/app.js)                                                                                                              |
 |                   | [J박스](https://www.acmicpc.net/problem/5354)                                            | [**js**](https://github.com/jejecrunch/2022/blob/main/jejecrunch/BAEKJOON/javascript/5354/app.js)                                                                                                              |
+|                   | [전투 드로이드 가격](https://www.acmicpc.net/problem/5361)                               | [**js**](https://github.com/jejecrunch/2022/blob/main/jejecrunch/BAEKJOON/javascript/5361/app.js)                                                                                                              |
+|                   | [경기 결과](https://www.acmicpc.net/problem/5523)                                        | [**js**](https://github.com/jejecrunch/2022/blob/main/jejecrunch/BAEKJOON/javascript/5523/app.js)                                                                                                              |
+|                   | [영수증](https://www.acmicpc.net/problem/5565)                                           | [**js**](https://github.com/jejecrunch/2022/blob/main/jejecrunch/BAEKJOON/javascript/5565/app.js)                                                                                                              |
+|                   | [터널의 입구와 출구](https://www.acmicpc.net/problem/5612)                               | [**js**](https://github.com/jejecrunch/2022/blob/main/jejecrunch/BAEKJOON/javascript/5612/app.js)                                                                                                              |
+|                   | [계산기 프로그램](https://www.acmicpc.net/problem/5613)                                  | [**js**](https://github.com/jejecrunch/2022/blob/main/jejecrunch/BAEKJOON/javascript/5613/app.js)                                                                                                              |
+|                   | [공약수](https://www.acmicpc.net/problem/5618)                                           | [**js**](https://github.com/jejecrunch/2022/blob/main/jejecrunch/BAEKJOON/javascript/5565/app.js)                                                                                                              |
+|                   | [팩토리얼 진법](https://www.acmicpc.net/problem/5692)                                    | [**js**](https://github.com/jejecrunch/2022/blob/main/jejecrunch/BAEKJOON/javascript/5692/app.js)                                                                                                              |
 |                   | [자동완성](https://www.acmicpc.net/problem/24883)                                        | [**js**](https://github.com/jejecrunch/2022/blob/main/jejecrunch/BAEKJOON/javascript/24883/app.js)                                                                                                             |
 | 입출력과 사칙연산 | [새싹](https://www.acmicpc.net/problem/25083)                                            | [**js**](https://github.com/jejecrunch/2022/blob/main/jejecrunch/BAEKJOON/javascript/25083/app.js)                                                                                                             |
 | 정렬              | [Presents](https://www.acmicpc.net/problem/13771)                                        | [**js**](https://github.com/jejecrunch/2022/blob/main/jejecrunch/BAEKJOON/javascript/13771/app.js)                                                                                                             |
@@ -406,6 +413,9 @@
 | 백트래킹          | [N과 M (1)](https://www.acmicpc.net/problem/15649)                                       | [**js**](https://github.com/jejecrunch/2022/blob/main/jejecrunch/BAEKJOON/javascript/15649/app.js)                                                                                                             |
 | 백트래킹          | [연산자 끼워넣기](https://www.acmicpc.net/problem/14888)                                 |                                                                                                                                                                                                                |
 | 백트래킹          | [스타트와 링크](https://www.acmicpc.net/problem/14889)                                   |                                                                                                                                                                                                                |
+| 문자열            | [연길이의 이상형](https://www.acmicpc.net/problem/20540)                                 | [**js**](https://github.com/jejecrunch/2022/blob/main/jejecrunch/BAEKJOON/javascript/20540/app.js)                                                                                                             |
+| 문자열            | [2진수 8진수](https://www.acmicpc.net/problem/1373)                                      | [**js**](https://github.com/jejecrunch/2022/blob/main/jejecrunch/BAEKJOON/javascript/1373/app.js)                                                                                                              |
+| 문자열            | [애너그램 만들기](https://www.acmicpc.net/problem/1919)                                  | [**js**](https://github.com/jejecrunch/2022/blob/main/jejecrunch/BAEKJOON/javascript/1919/app.js)                                                                                                              |
 
 </div>
 </details>
