@@ -5,13 +5,14 @@ const rl = readline.createInterface({
     output: process.stdout,
 })
 
-const map = new Array(91).fill(0, 0, 1).fill(1, 1, 2);
+const map = new Array(82).fill(0n, 0, 1).fill(1n, 1, 2);
 
-function solve(data) {
-    for(let i=2;i<=data;i++) {
-        map[i] = BigInt(map[i-1])+BigInt(map[i-2]);
-    }
-    console.log(map[data]*2n+(map[data-1]+map[data])*2n+"")
+for(let i=2;i<=82;i++) {
+    map[i] = BigInt(map[i-1])+BigInt(map[i-2]);
+}
+
+function solve(n) {
+    console.log((map[n-1]+map[n]*2n)*2n+"")
 }
 rl.on("line", (line) => {
     solve(+line)
