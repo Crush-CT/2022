@@ -5,10 +5,6 @@ const rl = readline.createInterface({
     output: process.stdout,
 })
 
-let s = ""
-
-for (let i = 1; i < 100001; i++) s += i
-
 function solve(num) {
     const pow = Math.pow(num, 2) + ""
     const slice = pow.slice(pow.length - (num + "").length)
